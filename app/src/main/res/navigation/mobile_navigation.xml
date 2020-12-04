@@ -22,4 +22,10 @@
         android:name="com.example.webservicesapp.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
+
+    <fragment
+        android:id="@+id/registrarUsuarioFragment"
+        android:name="com.example.webservicesapp.ui.RegistrarUsuarioFragment"
+        android:label="Registrar Usuarios"
+        tools:layout="@layout/fragment_registrar_usuario" />
 </navigation>

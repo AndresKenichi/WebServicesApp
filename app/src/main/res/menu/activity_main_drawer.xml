@@ -16,5 +16,14 @@
             android:id="@+id/nav_slideshow"
             android:icon="@drawable/ic_menu_slideshow"
             android:title="@string/menu_slideshow" />
+
+        <item
+            android:id="@+id/registrarUsuarioFragment"
+            android:icon="@drawable/ic_person_add"
+            android:title="Registrar Usuarios" />
+
+
     </group>
+
+
 </menu>
